@@ -2,8 +2,17 @@ body{
     margin: 0;
 }
 
-.pair1 {
+.pair1{
     min-height: 100vh;
     background-image: url(Img/Emo\ Emma.png);
     background-size: cover;
+    background-position: center;
+}
+
+.pair2{
+
+}
+
+.pair3{
+
 }
