@@ -1,18 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+
 body{
     margin: 0;
 }
 
-.pair1{
+.fullscreen{
     min-height: 100vh;
+    background-attachment: fixed;
+}
+
+.pair1{
     background-image: url(Img/Emo\ Emma.png);
     background-size: cover;
     background-position: center;
 }
 
 .pair2{
+    background-image: url(Img/Alice\ gaststation.png);
+    background-size: cover;
+    background-position: center;
 
 }
 
 .pair3{
 
+}
+
+.textContainer{
+    min-height: 100px;
 }
